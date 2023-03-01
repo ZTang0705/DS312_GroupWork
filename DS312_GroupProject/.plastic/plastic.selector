@@ -1,0 +1,4 @@
+repository "DS312_GroupProject@sleepyzleep@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
